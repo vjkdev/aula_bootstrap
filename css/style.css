@@ -1,0 +1,47 @@
+
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #b1e5f2;
+}
+
+.quem-somos {
+    background-color: #272635;
+    color: #EEF2F3;
+    padding-bottom: 20px;
+    margin-bottom: -10px;
+}
+
+.quem-somos h3 {
+    margin-top: 30px;
+}
+
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    margin-top: 0;
+    color: white;
+    background-color: #cecec0;
+    padding-bottom: 50px;
+}
+.parceiros h3 {
+    padding-bottom: 20px;
+}
+
+.servicos .row {
+    margin-top: 30px;
+} 
+
+.bg-footer {
+    background-color: #272635;
+    color: #EEF2F3;
+    font-size: 1rem;
+    padding: 20px 0;
+    
+}
